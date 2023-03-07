@@ -23,3 +23,16 @@ strong {
 }
 
 .img-responsive { width: 70%; margin: auto; box-shadow: 0 0 20px #90a959; }
+
+.img-revision {
+  margin: auto;
+  width: 400px;
+  margin-bottom: 50px;
+}
+
+.img-revision img {
+  height: 100px;
+  width: 300px;
+  filter: invert(100%);
+  vertical-align:middle
+}
