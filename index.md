@@ -17,17 +17,15 @@ image: assets/logo.png
 - [// Wanted List](#-wanted-list)
 - [// Code of Conduct](#-code-of-conduct)
 - [// Links](#-links)
-- [// Impressions from last year](#-impressions-from-last-year)
+- [// Impressions from past editions](#-impressions-from-past-editions)
 - [// Covid](#-covid)
 - [// Contact](#-contact)
 - [// Outro](#-outro)
 
-# // Socials, last minute updates
-[@rc3bern](https://twitter.com/rc3bern)
 
 # // Intro
 hackbar.ch is a free and open event, centered around the topic of (cyber-)security and the <3 for computers.
-With the upcoming hackbar easter event edition we are going to tune live into *the* [Revision (demo-)party](https://2023.revision-party.net/), while also hacking the [Hacky Easter 2023 CTF](https://www.hackyeaster.com/). 🤩🐇🪺
+With the upcoming hackbar easter event edition we are going to tune live into *the* [Revision (demo-)party](https://2023.revision-party.net/), while also hacking the [Hacky Easter 2023 CTF](https://www.hackyeaster.com/). 🤩🐇🥚
 
 
 Everybody is welcome to join the festivities.
@@ -44,7 +42,6 @@ Everybody is welcome to join the event. The bar is stocked with [mate](https://e
 ## // When
 - 07.04.2023
 - 08.04.2023
-
 
 ## // Where
 [Bahnstrasse 44, 3008 Bern, Switzerland](https://www.openstreetmap.org/?mlat=46.94650&mlon=7.41115#map=19/46.94650/7.41115)
@@ -66,7 +63,7 @@ Everybody is welcome to join the event. The bar is stocked with [mate](https://e
 * 19:00 - Dinner time
 * 23:00 - Doors close
 
-The definite timetable of 2023 is not online yet. 
+The final Revision timetable of 2023 is not yet online. 
 The [2022 version](https://2022.revision-party.net/events/timetable/) holds indications on what to expect.
 
 
@@ -92,9 +89,8 @@ The usual "no bullshit" & "be excellent to each other".
 * [https://www.hackyeaster.com/](https://www.hackyeaster.com/)
 * [https://www.booking.com/city/ch/bern.html](https://www.booking.com/city/ch/bern.html)
 
-## // Impressions from last year
-![rc3-21](/rc3-21.jpeg){:class="img-responsive"}
-![rc3-21](/rc3-2-21.jpeg){:class="img-responsive"}
+## // Impressions from past editions
+Impressions of our last hackbar event can be found [here https://cyllective.com/blog/post/hackbar-2022](https://cyllective.com/blog/post/hackbar-2022).
 
 ## // Covid
 We do plan to make the event happen, but if push comes to shove, we will have to put either mask restrictions in place or even go as far as to cancel the event.  
@@ -102,6 +98,9 @@ Again, if it should happen that we have to cancel the event, we will update this
 
 ## // Contact
 Feel free to reach out to the organizers via email: bSePnAdMer[@]hackbar.ch  (remove the capital letters "S","P","A" and "M" from the username before the @-sign.)
+
+# // Socials, last minute updates
+[@rc3bern](https://twitter.com/rc3bern)
 
 ## // Outro
 Brought to you by the community, [prozess](https://prozess.be), [Ilana Walker](https://ilanas-spektakel.ch), [Stephan Kobi](https://stephankobi.ch), [cyllective](https://cyllective.com/) <3
