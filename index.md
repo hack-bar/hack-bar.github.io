@@ -49,13 +49,13 @@ Everybody is welcome to join the event. The bar is stocked with [mate](https://e
 
 ## // Activities / Timetable
 
-## 07.04.2023 - Friday
+## 07.04.2023 - Friday (Karfreitag)
 * 12:00 - Doors open
 * Demos, CTF, Drinks & Fun
 * 19:00 - Dinner time
 * 23:00 - Doors close
 
-## 08.04.2023 - Satruday
+## 08.04.2023 - Saturday (Karsamstag)
 * 10:00 - Doors open
 * Demos, CTF, Drinks & Fun
 * 12:00 - Lunch time
