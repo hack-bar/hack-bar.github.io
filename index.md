@@ -34,7 +34,7 @@ Everybody is welcome to join the festivities.
 We'll cozy up and tune into the live stream of the Revision together, play [CTF](https://en.wikipedia.org/wiki/Capture_the_Flag) and have fun.
 For the CTF, we're going going to play the legendary [Hacky Easter 2023 CTF](https://www.hackyeaster.com/) - bigup to PS and the whole fluffly crew behind this CTF.
 
-If you want to participate in the CTF or also feel the urge to come up with a demo yorself, be sure to bring along your laptop and power-adapter - everything else is cared for and present at the hackbar.
+If you want to participate in the CTF or also feel the urge to come up with a demo yourself, be sure to bring along your laptop and power-adapter - everything else is cared for and present at the hackbar.
 
 Everybody is welcome to join the event. The bar is stocked with [mate](https://en.wikipedia.org/wiki/Mate_(drink)) drinks and [tschunk](https://en.wikipedia.org/wiki/Tschunk). 
 
