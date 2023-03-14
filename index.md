@@ -18,7 +18,6 @@ image: assets/logo.png
 - [// Code of Conduct](#-code-of-conduct)
 - [// Links](#-links)
 - [// Impressions from past editions](#-impressions-from-past-editions)
-- [// Covid](#-covid)
 - [// Contact](#-contact)
 - [// Outro](#-outro)
 
@@ -33,7 +32,7 @@ Everybody is welcome to join the festivities.
 ## // What
 *The* [Revision](https://en.wikipedia.org/wiki/Revision_(demoparty)) is a demoparty, which takes place on Easter in Saarbrücken in Germany. A [demoparty](https://en.wikipedia.org/wiki/Demoscene#Parties) is an event where demosceners and other computer enthusiasts gather to take part in competitions (nicknamed "compos"), where they present demos (short audio-visual presentations of computer art) and other works such as digital art and music.
 We'll cozy up and tune into the live stream of the Revision together, play [CTF](https://en.wikipedia.org/wiki/Capture_the_Flag) and have fun.
-For the CTF, we're going going to play the legendary [Hacky Easter 2023 CTF](https://www.hackyeaster.com/).
+For the CTF, we're going going to play the legendary [Hacky Easter 2023 CTF](https://www.hackyeaster.com/) - bigup to PS and the whole fluffly crew behind this CTF.
 
 If you want to participate in the CTF or also feel the urge to come up with a demo yorself, be sure to bring along your laptop and power-adapter - everything else is cared for and present at the hackbar.
 
@@ -52,6 +51,7 @@ Everybody is welcome to join the event. The bar is stocked with [mate](https://e
 ## 07.04.2023 - Friday (Karfreitag)
 * 12:00 - Doors open
 * Demos, CTF, Drinks & Fun
+* 18:00 - Presentation: "CTF 101" by Sophus Siegenthaler
 * 19:00 - Dinner time
 * 23:00 - Doors close
 
@@ -72,6 +72,7 @@ Would you like to join us at the event? As the number of visitors is limited, pl
 **[https://tickets.hackbar.ch/hackbar/revision23](https://tickets.hackbar.ch/hackbar/revision23)**
 
 During lunch & dinner time, we will serve a self-cooked meal - be sure to give indications on your participations while ordering your ticket. 
+These are not Revision tickets, the remote Revision tickets are sold separately.
 
 ## // Cost of Entry
 None, we do however accept donations to make the whole event possible and do have a cool donor bracelet waiting for you (i.e. you can pay what you think the event is worth to you).
@@ -91,10 +92,6 @@ The usual "no bullshit" & "be excellent to each other".
 
 ## // Impressions from past editions
 Impressions of our last hackbar event can be found [here https://cyllective.com/blog/post/hackbar-2022](https://cyllective.com/blog/post/hackbar-2022).
-
-## // Covid
-We do plan to make the event happen, but if push comes to shove, we will have to put either mask restrictions in place or even go as far as to cancel the event.  
-Again, if it should happen that we have to cancel the event, we will update this website accordingly.
 
 ## // Contact
 Feel free to reach out to the organizers via email: bSePnAdMer[@]hackbar.ch  (remove the capital letters "S","P","A" and "M" from the username before the @-sign.)
