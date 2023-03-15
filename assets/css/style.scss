@@ -7,14 +7,59 @@ header {
   display: none;
 }
 
-#svg60 {
-  display: block;
-  margin: auto;
-  margin-top: 7%;
+#logo {
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+    width: 500px;
+}
+
+a {
+    text-shadow: none;
+    font-weight: 100;
+    color: #FED3D9;
+    text-decoration-color: #CEF4F8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #D1CCEB;
+}
+
+h1 {
+    font-size: 2rem !important;
+    display: flex;
+}
+
+h2 {
+    font-size: 1.3rem !important;
+    display: flex;
+}
+
+h1:before {
+    content: "//";
+    margin-right: 0.4rem;
+    font-size: 1.9rem;
+    color: #CEF4F8;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+h2:before {
+    content: "/";
+    margin-right: 0.4rem;
+    font-size: 1.2rem;
+    color: #CEF4F8;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+ul {
+    padding-left: 1rem;
 }
 
 html {
-  box-shadow: inset 0 0 20px #90a959;
+    box-shadow: inset 0 0 20px #CEF4F8;
+    padding-bottom: 150px;
 }
 
 strong {
@@ -22,17 +67,67 @@ strong {
   text-shadow: 0 0 15px #a8ff00;
 }
 
-.img-responsive { width: 70%; margin: auto; box-shadow: 0 0 20px #90a959; }
+.img-responsive { width: 70%; margin: auto; box-shadow: 0 0 20px #CEF4F8; }
 
 .img-revision {
   margin: auto;
   width: 400px;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 .img-revision img {
-  height: 100px;
   width: 300px;
   filter: invert(100%);
-  vertical-align:middle
+  display: block;
+  margin: auto;
+}
+
+.toc {
+    padding-left: 0;
+}
+
+.toc li {
+    list-style-type: none;
+    color: black;
+    font-weight: 300;
+    list-style-image: none !important;
+    margin-left: 0;
+}
+
+.toc ul {
+    padding-left: 2%;
+    margin-bottom: 5px;
+}
+
+.toc a {
+    padding-left: 1.5rem;
+    font-size: 1.1rem;
+    color: #FED3D9;
+    text-decoration: none;
+}
+
+.toc li li a {
+    padding-left: 1.0rem;
+}
+
+.toc li:before {
+    content: "//";
+    font-size: 1.0rem;
+    margin-right: 0.1rem;
+    color: #CEF4F8;
+    position: absolute;
+    translate: transformY(-50%)
+}
+
+.toc li li:before {
+    content: "/";
+    margin-right: 0.1rem;
+    color: #CEF4F8;
+    position: absolute;
+    translate: transformY(-50%)
+}
+
+li {
+    list-style-image: none !important;
+    list-style-type: none;
 }
