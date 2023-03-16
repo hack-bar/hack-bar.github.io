@@ -45,7 +45,7 @@ h1:before {
 }
 
 h2:before {
-    content: "/";
+    content: "//";
     margin-right: 0.4rem;
     font-size: 1.2rem;
     color: #CEF4F8;
@@ -120,7 +120,7 @@ strong {
 }
 
 .toc li li:before {
-    content: "/";
+    content: "//";
     margin-right: 0.1rem;
     color: #CEF4F8;
     position: absolute;
