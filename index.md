@@ -10,19 +10,19 @@ image: assets/logo.png
 # hackbar.ch:revision
 
 {: class="toc"}
-- [Intro](#-intro)
-  * [What](#-what)
-  * [When](#-when)
-  * [Where](#-where)
-  * [Activities / Timetable](#-activities---timetable)
+- [Intro](#intro)
+  * [What](#what)
+  * [When](#when)
+  * [Where](#where)
+  * [Activities / Timetable](#activities--timetable)
 - **[Ticket and Food Reservations](#ticket-and-food-reservations)**👈‼️
-  * [Cost of Entry](#-cost-of-entry)
-- [Wanted List](#-wanted-list)
-- [Code of Conduct](#-code-of-conduct)
-- [Links](#-links)
-- [Impressions from past editions](#-impressions-from-past-editions)
-- [Contact](#-contact)
-- [Outro](#-outro)
+  * [Cost of Entry](#cost-of-entry)
+- [Wanted List](#wanted-list)
+- [Code of Conduct](#code-of-conduct)
+- [Links](#links)
+- [Impressions from past editions](#impressions-from-past-editions)
+- [Contact](#contact)
+- [Outro](#outro)
 
 
 # Intro
